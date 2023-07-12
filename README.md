@@ -1,0 +1,2 @@
+# seallogo
+for storage
